@@ -1,7 +1,7 @@
 const Gallery=[
     {
         id:1,
-        image:"./images/maggie.jpg",
+        image:"../images/maggie.jpg",
         name:"maggie",
         category:"breakfast",
         price:"12$",
@@ -10,7 +10,7 @@ const Gallery=[
     },
     {
         id:2,
-        image:"./images/aloo.jpg",
+        image:"../images/aloo.jpg",
         name:"aloo pokora ",
         category:"evening",
         price:"8$",
@@ -19,7 +19,7 @@ const Gallery=[
     },
     {
         id:3,
-        image:"./images/rice.jpg",
+        image:"../images/rice.jpg",
         name:"rice ",
         category:"lunch",
         price:"30$",
@@ -28,7 +28,7 @@ const Gallery=[
     },
     {
         id:4,
-        image:"./images/chicken.jpg",
+        image:"../images/chicken.jpg",
         name:"chicken",
         category:"dinner",
         price:"80$",
@@ -37,7 +37,7 @@ const Gallery=[
     },
     {
         id:5,
-        image:"./images/luchi.jpg",
+        image:"../images/luchi.jpg",
         name:"luchi ",
         category:"breakfast",
         price:"10$",
@@ -46,7 +46,7 @@ const Gallery=[
     },
     {
         id:6,
-        image:"./images/roll.jpg",
+        image:"../images/roll.jpg",
         name:"roll ",
         category:"evening",
         price:"30$",
@@ -55,7 +55,7 @@ const Gallery=[
     },
     {
         id:7,
-        image:"./images/Samosha.jpg",
+        image:"../images/Samosha.jpg",
         name:"samosa ",
         category:"evening",
         price:"10$",
@@ -64,7 +64,7 @@ const Gallery=[
     },
     {
         id:8,
-        image:"./images/biriyani.jpg",
+        image:"../images/biriyani.jpg",
         name:"biriyani ",
         category:"dinner",
         price:"100$",
@@ -73,7 +73,7 @@ const Gallery=[
     },
     {
         id:9,
-        image:"./images/fish.jpg",
+        image:"../images/fish.jpg",
         name:"fish ",
         category:"lunch",
         price:"50$",

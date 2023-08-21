@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
       <Layout>
-      <div className="home" style={{backgroundImage:`url("./images/back.jpg")`}}>
+      <div className="home" style={{backgroundImage:`url("../images/back.jpg")`}}>
         <div className="headercontainer">
           <h1>Food Delivery Website</h1>
           <p>Best Food in India, Try It Now </p>
