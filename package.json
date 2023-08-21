@@ -1,6 +1,7 @@
 {
   "name": "my-ap",
   "version": "0.1.0",
+  "homepage": "https://Anwesha-ghoshcse.github.io/FoodWebsite",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -11,6 +12,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.1",
+    "gh-pages": "^6.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.15.0",
@@ -20,6 +22,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
